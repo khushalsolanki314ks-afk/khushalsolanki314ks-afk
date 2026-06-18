@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am Khushal Dharmesh Solanki, a final-year Electronics and Computer Engineering student<br><br> <br><br>AI-powered document processing systems & intelligent chatbots using Generative AI, RAG, and FastAPI<br><br><br>Full-stack AI applications, LLM-based projects, and scalable backend systems<br> <br><br>Deploying production-grade AI solutions & optimizing machine learning pipelines<br> <br><br>Advanced prompt engineering, multimodal AI, and cloud deployment (AWS)<br> t<br><br>Building RAG systems, OCR implementations, FastAPI APIs, React integration, or generative AI workflows<br> <br><br>I love turning raw documents into intelligent data — whether it's invoices, images, or user queries!
+<br>I am Khushal Dharmesh Solanki, a final-year Electronics and Computer Engineering student AI-powered document processing systems & intelligent chatbots using Generative AI, RAG, and FastAPI Full-stack AI applications, LLM-based projects, and scalable backend systems Deploying production-grade AI solutions & optimizing machine learning pipelines Advanced prompt engineering, multimodal AI, and cloud deployment (AWS) Building RAG systems, OCR implementations, FastAPI APIs, React integration, or generative AI workflows<br> <br><br>I love turning raw documents into intelligent data — whether it's invoices, images, or user queries!
 
 
 ## 🌐 Socials:
